@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<jni4net-proxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://jni4net.sf.net/0.8.8.0/toolConfig.xsd">
+  <TargetDirJvm>F:\Java Wid Elipse\CSharpJavaIntegration\jvm</TargetDirJvm>
+  <TargetDirClr>F:\Java Wid Elipse\CSharpJavaIntegration\clr</TargetDirClr>
+  <AssemblyReference Assembly="D:\Documents\visual studio 2015\Projects\ClassLibrary1\bin\Debug\ClassLibrary1.dll" Generate="true" />
+</jni4net-proxygen>
